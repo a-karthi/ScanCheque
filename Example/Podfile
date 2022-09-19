@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ScanCheque_Tests' do
+  pod 'ScanCheque', :path => '../'
+  
+  
+end
