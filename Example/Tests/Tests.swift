@@ -1,5 +1,5 @@
 import XCTest
-import ScanCheque
+//import ScanCheque
 
 class Tests: XCTestCase {
     
